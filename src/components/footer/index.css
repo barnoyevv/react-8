@@ -1,0 +1,60 @@
+.footer {
+    background: black;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.footer h1 {
+    color: red;
+}
+.footer_box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer_first {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+   
+
+}
+
+span h2 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.64px;
+    text-align: center;
+    color: white;
+
+}
+
+span p {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.32px;
+    text-align: center;
+    color: white;
+}
+
+button {
+    width: 189px;
+    height: 40px;
+    border-radius: 85px;
+    background: #0081FF;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+    border: 1px solid #0081FF;
+    transition: .3s linear;
+}
+
+button:hover {
+    background: white;
+    color: #0081FF;
+    border: 1px solid #0081FF;
+}
+

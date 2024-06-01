@@ -1,0 +1,8 @@
+.loginn {
+    background: black;
+}
+.login img {
+    width: 1200px;
+    height: 550px;
+    object-fit: cover;
+}
